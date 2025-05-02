@@ -47,6 +47,9 @@ class CalculatorState extends State<Calculator> {
             math_expressions.EvaluationType.REAL,
             contextModel,
           );
+          if (_expression.contains("/0")) {
+            answer = "Error: /zero";
+          }
           screenText = answer.toString();
           _expression = answer.toString();
         } catch (e) {

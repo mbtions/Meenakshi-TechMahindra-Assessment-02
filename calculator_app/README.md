@@ -1,19 +1,15 @@
 # calculator_app
 
-A new Flutter project.
+**Project 1: Build a Basic Calculator App**
+**Objective:** Create a Flutter app that functions as a basic calculator.
 
-## Getting Started
+## Requirements:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Button with numbers.
+- Buttons for basic operations: Add, Subtract, Multiply, and Divide and Modulos.
+- Display the result after clicking an operation.
+- Validate inputs (no divide by zero, etc.).
+- Optional: Style the calculator to look like a physical one.
 
 ## App Screenshots
 
@@ -27,3 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 <br>
 
 <img src="./assets/screenshots/ss04.png" height=400> <img src="./assets/screenshots/ss05.png" height=400> <img src="./assets/screenshots/ss06.png" height=400> <img src="./assets/screenshots/ss07.png" height=400>
+
+<h3>Handling divide by zero</h3>
+
+<img src="./assets/screenshots/ss08.png" height=400> <img src="./assets/screenshots/ss09.png" height=400>
