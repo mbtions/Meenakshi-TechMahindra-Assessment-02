@@ -12,7 +12,19 @@ class MyCalculatorApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: Text('Calculator'), centerTitle: true),
+        backgroundColor: Colors.blue.shade200,
+        appBar: AppBar(
+          backgroundColor: Colors.blue,
+          title: Text(
+            'CALCULATOR APP',
+            style: TextStyle(
+              fontSize: 25,
+              fontWeight: FontWeight.bold,
+              color: Colors.white,
+            ),
+          ),
+          centerTitle: true,
+        ),
         body: Calculator(),
       ),
     );
