@@ -1,6 +1,6 @@
 # tictactoe_app
 
-**Project 2: Build a Tic Tac Toe Game**
+**Project 2: Build a Tic Tac Toe Game**  
 **Objective:** Develop a 2-player Tic Tac Toe game.
 
 ## Requirements:

@@ -1,6 +1,6 @@
 # calculator_app
 
-**Project 1: Build a Basic Calculator App**
+**Project 1: Build a Basic Calculator App**  
 **Objective:** Create a Flutter app that functions as a basic calculator.
 
 ## Requirements:
